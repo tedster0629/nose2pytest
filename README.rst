@@ -435,10 +435,3 @@ Maintenance
     * note however that once the correct tox installed,
 
 
-Acknowledgments
----------------
-
-Thanks to (AFAICT) Lennart Regebro for having written http://python3porting.com/fixers.html#find-pattern, and 
-to those who answered 
-`my question on SO <http://stackoverflow.com/questions/35169154/pattern-to-match-1-or-2-arg-function-call-for-lib2to3>`_
-and `my question on pytest-dev <https://mail.python.org/pipermail/pytest-dev/2016-March/003497.html>`_.
